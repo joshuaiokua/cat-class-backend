@@ -163,3 +163,4 @@ cython_debug/
 
 # Personal
 .vscode/
+nb.ipynb
